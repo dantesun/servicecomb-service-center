@@ -23,7 +23,7 @@
     "@angular/router": "~9.1.1",
     "@types/js-yaml": "^3.12.5",
     "apexcharts": "^3.19.0",
-    "echarts": "^4.7.0",
+    "echarts": "^5.5.1",
     "font-awesome": "^4.7.0",
     "iodash": "0.0.1-security",
     "js-yaml": "^3.14.0",
