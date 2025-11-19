@@ -26,7 +26,7 @@
     "echarts": "^4.7.0",
     "font-awesome": "^4.7.0",
     "iodash": "0.0.1-security",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.14.2",
     "ng-apexcharts": "^1.2.3",
     "ngx-echarts": "^4.2.2",
     "ngx-toastr": "^12.0.1",
